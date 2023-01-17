@@ -11,18 +11,18 @@ Its Social Media App - Idea behind to learn Full stack Application development i
  
  # Skills Used -
  
-      #BackEnd/Server- <br>
-      1.NodeJs <br>
-      2.ExpressJs,ExpressJs Router <br>
-      3.MongoDB, MongoDB Atlas as server for storing data <br>
-      4.JWT for Authentication <br>
-      5.Middlewares for authorizing <br>
+      #BackEnd/Server- 
+      1.NodeJs 
+      2.ExpressJs,ExpressJs Router 
+      3.MongoDB, MongoDB Atlas as server for storing data 
+      4.JWT for Authentication 
+      5.Middlewares for authorizing 
 
       #FrontEnd/Client-
-      1.ReactJs, React-router-dom <br>
-      2.react-hot-toast,react-icons <br>
-      3.API fetching - Axios, Axios interceptors <br>
-      4.Redux-state management tool <br>
+      1.ReactJs, React-router-dom 
+      2.react-hot-toast,react-icons 
+      3.API fetching - Axios, Axios interceptors 
+      4.Redux-state management tool 
       
 # Knowledge Gain
 
